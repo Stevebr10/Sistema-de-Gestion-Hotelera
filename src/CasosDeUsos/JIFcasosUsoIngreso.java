@@ -11,7 +11,7 @@ import javax.swing.JInternalFrame;
 
 /**
  *
- * @author HP
+ * @author Brandon Oña
  */
 public class JIFcasosUsoIngreso extends javax.swing.JInternalFrame {
     
