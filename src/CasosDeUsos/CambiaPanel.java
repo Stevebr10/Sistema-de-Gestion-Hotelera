@@ -7,7 +7,7 @@ package CasosDeUsos;
 
 /**
  *
- * @author RojeruSan
+ * @author Brandon Oña
  */
 import javax.swing.JDesktopPane;
 import javax.swing.JInternalFrame;

@@ -9,7 +9,7 @@ import javax.swing.JInternalFrame;
 
 /**
  *
- * @author HP
+ * @author Brandon Oña
  */
 public class JIFcasosUsoInventario extends javax.swing.JInternalFrame {
 
