@@ -25,7 +25,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author JHON
+ * @author Brandon Oña
  */
 public class JIFRegistroPagoServicios extends javax.swing.JInternalFrame {
 

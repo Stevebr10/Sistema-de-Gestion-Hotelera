@@ -24,7 +24,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author JHON
+ * @author Brandon Oña
  */
 public class JIFRegistroPagoSalario extends javax.swing.JInternalFrame {
 

@@ -22,7 +22,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author JHON
+ * @author Brandon Oña
  */
 public class JIFConsultarPago extends javax.swing.JInternalFrame {
 
