@@ -23,7 +23,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author HP
+ * @author Brandon Oña
  */
 public class JIFActualizarUsuario extends javax.swing.JInternalFrame {
 
