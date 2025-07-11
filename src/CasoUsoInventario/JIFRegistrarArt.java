@@ -23,7 +23,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author JHON
+ * @author Brandon Oña
  */
 public class JIFRegistrarArt extends javax.swing.JInternalFrame {
 
