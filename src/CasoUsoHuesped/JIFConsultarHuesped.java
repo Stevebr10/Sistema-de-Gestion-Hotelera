@@ -26,7 +26,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author HP
+ * @author Brandon Oña
  */
 public class JIFConsultarHuesped extends javax.swing.JInternalFrame {
 

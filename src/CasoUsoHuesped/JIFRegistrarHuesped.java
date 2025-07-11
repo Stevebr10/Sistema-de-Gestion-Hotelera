@@ -32,7 +32,7 @@ import java.sql.Connection;
 
 /**
  *
- * @author HP
+ * @author Brandon Oña
  */
 public class JIFRegistrarHuesped extends javax.swing.JInternalFrame {
 

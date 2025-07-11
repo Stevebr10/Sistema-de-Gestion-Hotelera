@@ -24,7 +24,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author HP
+ * @author Brandon Oña
  */
 public class JIFActualizarHuespedes extends javax.swing.JInternalFrame {
 
