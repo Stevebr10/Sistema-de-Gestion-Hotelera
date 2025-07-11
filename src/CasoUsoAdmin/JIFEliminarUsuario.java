@@ -24,7 +24,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author JHON
+ * @author Brandon Oña
  */
 public class JIFEliminarUsuario extends javax.swing.JInternalFrame {
 
